@@ -1,0 +1,21 @@
+.footer {
+  height: 200px;
+  background-color: #2C2B2B;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+}
+
+.social-icon {
+  padding: 10px;
+  color: #50CB93;
+}
+
+.footer-text {
+  text-align: center;
+  color: white;
+}
